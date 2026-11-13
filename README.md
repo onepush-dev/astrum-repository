@@ -1,6 +1,6 @@
 # Astrum Repository — self-hosted artifact repository manager (Docker, npm, Maven, Cargo, PyPI, Go proxy and more). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/XrUWW-)
 
 [Astrum Repository](https://github.com/GlobalArtInc/astrum-repository) (MIT, by GlobalArt) is a Rust artifact repository
 manager in the spirit of Nexus/Artifactory: hosted, proxy and group repositories for Docker/OCI, npm, Maven, Cargo, PyPI,
